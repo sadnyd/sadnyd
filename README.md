@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Devayan
-- 👀 I’m interested in Machine Learning using tensor flow and Artificial Inteligence 
-- 🌱 I’m currently learning Web Development and have basic knowledge in java, python, C/C++
-- 📫 Reach me at sadnyd@gmail.com or https://devayandas.netlify.app/
-
-<!---
-sadnyd/sadnyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there, I'm Devayan! I'm on an exciting journey of mastering the art of Web Development. With a foundation in languages like Java, Python, and C/C++, I'm weaving code to craft digital experiences. My curiosity-driven mindset keeps me exploring the ever-evolving world of technology. Whether it's tackling intricate coding challenges or bringing innovative ideas to life, I'm all in! If you're keen to collaborate, learn, or simply have a tech chat, feel free to drop me a line at sadnyd@gmail.com or check out my web presence at https://devayandas.netlify.app. Let's shape the digital future together! 🚀🌐
