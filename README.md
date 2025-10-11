@@ -1,4 +1,5 @@
-👋 Hey there, I'm Devayan! I'm on an exciting journey of mastering the art of Machine Learning.
-With a foundation in languages like Java, Python, and C/C++, I'm weaving code to craft digital experiences.
-My curiosity-driven mindset keeps me exploring the ever-evolving world of technology. Whether it's tackling intricate coding challenges or bringing innovative ideas to life, I'm all in!
-If you're keen to collaborate, learn, or simply have a tech chat, feel free to drop me a line at sadnydgaming@gmail.com. Feel free to contact. 🚀🌐
+👋 Hi, I’m Devayan! I'm exploring the exciting world of Machine Learning and Data Science. With strong foundations in Java, Python, and C/C++, I enjoy building end-to-end projects—from training ML models to deploying full-stack applications.
+
+Curiosity drives me to experiment with innovative solutions, whether it’s gesture-controlled interfaces, image recognition models, or AI-powered tools. I love solving complex problems, learning cutting-edge technologies, and turning ideas into practical digital experiences.
+
+If you’re interested in collaboration, discussing tech, or sharing knowledge, feel free to reach out at **[sadnydgaming@gmail.com](mailto:sadnydgaming@gmail.com)**. Let’s create something amazing! 🚀🌐
